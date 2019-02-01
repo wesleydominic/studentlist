@@ -4,6 +4,9 @@ package studentlist;
 public class Student {
  
     private String name;
+ 
+ public void String{
+ }
     private int id;
     private String DoB;
     
