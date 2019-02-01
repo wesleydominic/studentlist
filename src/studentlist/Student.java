@@ -7,6 +7,7 @@ public class Student {
     private int id;
     private String DoB;
     
+ private int Number;
    //comment
     public Student()
     {
